@@ -1,4 +1,4 @@
-# 📘 Ecuación de Euler–Lagrange aplicada a un manipulador robótico 🤖
+# Ecuación de Euler–Lagrange aplicada a un manipulador robótico 
 
 Este proyecto fue creado como parte de un estudio práctico sobre la **ecuación de Euler–Lagrange** y su aplicación directa en el análisis y modelado dinámico de un **manipulador robótico planar de 2 grados de libertad (2R)**.  
 El objetivo es combinar la teoría clásica con una implementación moderna en Python, mostrando paso a paso cómo se construye el modelo dinámico de un robot desde sus fundamentos físicos.
@@ -34,11 +34,11 @@ El notebook busca que el lector pueda:
 4. Ejecuta las celdas una por una.  
 5. Al final, verás una animación del manipulador moviéndose en el plano **(x, y, z)**.  
 
-> 💡 *Tip:* Si quieres modificar el comportamiento del robot, puedes cambiar los valores de masa, longitud o amplitud del movimiento dentro del código.
+> *Tip:* Si quieres modificar el comportamiento del robot, puedes cambiar los valores de masa, longitud o amplitud del movimiento dentro del código.
 
 ---
 
-## 🧠 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Python 3**  
 - **SymPy** → para cálculos simbólicos (ecuaciones de Euler–Lagrange).  
