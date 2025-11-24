@@ -26,7 +26,7 @@ El notebook busca que el lector pueda:
 
 ---
 
-## ⚙️ Cómo usarlo
+## Cómo usarlo
 
 1. Descarga el archivo `.ipynb`.  
 2. Sube el notebook a tu **Google Drive**.  
